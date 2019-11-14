@@ -1,0 +1,16 @@
+body{
+	background-color: #2EFEF7;
+}
+div{
+	width: 99%; 
+	position: absolute; 
+	top: 200px;
+}
+table,tr,th{
+	width: 99%;
+	border: 1px solid black;
+}
+th{
+	width: 30%;
+	font-size: 200%;
+}
